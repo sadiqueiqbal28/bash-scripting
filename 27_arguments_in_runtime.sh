@@ -1,4 +1,7 @@
 #!/bin/bash
+
+set -x
+
 # This script shows how argument can be passed during runtime of script
 
 echo "Number 1: $1"
